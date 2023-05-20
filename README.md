@@ -27,7 +27,7 @@
   4.- Configura los servicios de pago y otras integraciones según las instrucciones proporcionadas por los proveedores correspondientes.<br>
   5.- Publica tu sitio web en un servidor de tu elección.<br>
   <h3>Contribución</h3>
-  Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar pull requests con mejoras, correcciones de errores o nuevas funcionalidades. Asegúrate de seguir las directrices de contribución establecidas en el repositorio.<<br>
+  Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar pull requests con mejoras, correcciones de errores o nuevas funcionalidades. Asegúrate de seguir las directrices de contribución establecidas en el repositorio.<br>
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerse en contacto conmigo.<br>
 ¡Espero que esta plantilla web sea útil para tu proyecto de ecommerce! Siéntete libre de personalizarla y adaptarla a tus necesidades específicas. ¡Buena suerte con tu tienda en línea!
   </header>
