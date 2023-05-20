@@ -13,14 +13,14 @@
   catálogo de productos, página de detalles del producto y
   carrito de compras.<br>
   * Integración con servicios de pago populares para realizar transacciones seguras.<br>
-  * Sistema de gestión de productos con capacidad para agregar, editar y eliminar productos fácilmente.
-  * Funcionalidades de búsqueda y filtrado para facilitar la exploración de los productos.
-  * Opciones de personalización y configuración para adaptar el aspecto y la funcionalidad a tus necesidades.
- Tecnologías utilizadas
+  * Sistema de gestión de productos con capacidad para agregar, editar y eliminar productos fácilmente.<br>
+  * Funcionalidades de búsqueda y filtrado para facilitar la exploración de los productos.<br>
+  * Opciones de personalización y configuración para adaptar el aspecto y la funcionalidad a tus necesidades.<br>
+ <h3>Tecnologías utilizadas</h3>
   HTML5 y CSS3: Utilizados para la estructura y los estilos de la plantilla.
   JavaScript: Para agregar interactividad y funcionalidades adicionales.
   Frameworks y bibliotecas: Puedes utilizar frameworks como Bootstrap o librerías como jQuery para acelerar el desarrollo y   mejorar la experiencia de usuario.
-Instalación y configuración
+<h3>Instalación y configuración</h3>
   Clona el repositorio en tu máquina local.
   Abre el proyecto en tu editor de código preferido.
   Personaliza el contenido, los estilos y las funcionalidades según tus necesidades.
