@@ -7,15 +7,15 @@
   <hr>
   Este proyecto es un template o plantilla web para la creación de sitios de ecommerce. Proporciona una estructura básica y estilos predeterminados que puedes utilizar como punto de partida para desarrollar tu propia tienda en línea.
 
-Características principales:<br>
-  *Diseño responsivo y amigable para dispositivos móviles.<br>
-  *Páginas principales predefinidas, como la página de inicio, 
+  <h3>Características principales:<br></h3>
+  * Diseño responsivo y amigable para dispositivos móviles.<br>
+  * Páginas principales predefinidas, como la página de inicio, 
   catálogo de productos, página de detalles del producto y
   carrito de compras.<br>
-  *Integración con servicios de pago populares para realizar transacciones seguras.
-  *Sistema de gestión de productos con capacidad para agregar, editar y eliminar productos fácilmente.
-  *Funcionalidades de búsqueda y filtrado para facilitar la exploración de los productos.
-  *Opciones de personalización y configuración para adaptar el aspecto y la funcionalidad a tus necesidades.
+  * Integración con servicios de pago populares para realizar transacciones seguras.<br>
+  * Sistema de gestión de productos con capacidad para agregar, editar y eliminar productos fácilmente.
+  * Funcionalidades de búsqueda y filtrado para facilitar la exploración de los productos.
+  * Opciones de personalización y configuración para adaptar el aspecto y la funcionalidad a tus necesidades.
  Tecnologías utilizadas
   HTML5 y CSS3: Utilizados para la estructura y los estilos de la plantilla.
   JavaScript: Para agregar interactividad y funcionalidades adicionales.
